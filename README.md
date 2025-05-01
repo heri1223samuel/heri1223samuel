@@ -5,7 +5,6 @@
 💞️ **I’m looking to collaborate on** open-source projects or team-based web development projects to deepen my skills in JavaScript, React, and UI design.  
 
 🎓 **About Me**:  
-- I’m a student at the **Institut Supérieur d'Informatique** in **Antananarivo, Madagascar**.  
 - I’m **self-taught** and always eager to learn new technologies and frameworks.  
 - Proficient in **HTML**, **CSS**, **JavaScript**, and **React**, with a strong interest in creating dynamic and responsive web applications.  
 
@@ -17,6 +16,7 @@
 📫 **How to reach me**:  
 - Email: herysamuelpljv@gmail.com  
 - Facebook: Heritiana Hasina Rasamoelina
+- Instagram: Heritiana Rasamoelina
 
 😄 **Fun Fact**: I believe in learning something new every day, whether it’s a new library, design pattern, or coding trick!  
 ⚡ **Currently**: Student, aspiring front-end developer, and enthusiast of clean, modern UI design.  
