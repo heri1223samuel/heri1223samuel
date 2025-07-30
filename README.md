@@ -1,26 +1,34 @@
 # 👋 Hi, I’m heri1223samuel
 
-👀 **I’m passionate about web development**, with a focus on building modern, user-friendly interfaces using **JavaScript** and **React**.  
-🌱 **I’m currently learning** advanced React concepts and enhancing my UI/UX skills with **Material-UI (MUI)**.  
-💞️ **I’m looking to collaborate on** open-source projects or team-based web development projects to deepen my skills in JavaScript, React, and UI design.  
-
-🎓 **About Me**:  
-- I’m **self-taught** and always eager to learn new technologies and frameworks.  
-- Proficient in **HTML**, **CSS**, **JavaScript**, and **React**, with a strong interest in creating dynamic and responsive web applications.  
-
-💻 **My Skills**:  
-- **Languages & Frameworks**: HTML, CSS, JavaScript, React  
-- **Tools & Libraries**: Material-UI (MUI), Git  
-- **Interests**: Front-end development, UI/UX design, and building scalable web apps  
-
-📫 **How to reach me**:  
-- Email: herysamuelpljv@gmail.com  
-- Facebook: Heritiana Hasina Rasamoelina
-- Instagram: Heritiana Rasamoelina
-
-😄 **Fun Fact**: I believe in learning something new every day, whether it’s a new library, design pattern, or coding trick!  
-⚡ **Currently**: Student, aspiring front-end developer, and enthusiast of clean, modern UI design.  
+👀 **I’m passionate about web development**, especially creating modern, user-friendly interfaces using **JavaScript**, **TypeScript**, and **React (TSX)**.  
+🌱 **I’m currently learning** advanced React concepts and improving my UI/UX skills with **Material-UI (MUI)**.  
+💞️ **I’m looking to collaborate on** open-source or team-based web development projects to sharpen my skills in TypeScript, React, and front-end design.
 
 ---
 
-Let’s build something amazing together!
+### 🎓 About Me  
+- I’m currently studying **computer science and programming**, always motivated to expand my knowledge and explore new technologies.  
+- Proficient in **HTML**, **CSS**, **JavaScript**, **TypeScript**, and **React**, with a passion for building dynamic, responsive web applications.
+
+---
+
+### 💻 My Skills  
+- **Languages & Frameworks**: HTML, CSS, JavaScript, TypeScript, React  
+- **Tools & Libraries**: Material-UI (MUI), Git  
+- **Interests**: Front-end development, UI/UX design, and scalable web app architecture
+
+---
+
+### 📫 How to reach me  
+- 📧 Email: [herysamuelpljv@gmail.com](mailto:herysamuelpljv@gmail.com)  
+- 📘 Facebook: [Heritiana Hasina Rasamoelina](https://www.facebook.com/)  
+- 📸 Instagram: [Heritiana Rasamoelina](https://www.instagram.com/)
+
+---
+
+😄 **Fun Fact**: I believe in learning something new every day — whether it’s a new library, design pattern, or useful coding trick!  
+⚡ **Currently**: Computer science student and aspiring front-end developer with a love for clean, modern UI design.
+
+---
+
+**Let’s build something amazing together!**
