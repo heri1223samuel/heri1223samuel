@@ -21,8 +21,7 @@
 
 ### 📫 How to reach me  
 - 📧 Email: [herysamuelpljv@gmail.com](mailto:herysamuelpljv@gmail.com)  
-- 📘 Facebook: [Heritiana Hasina Rasamoelina](https://www.facebook.com/)  
-- 📸 Instagram: [Heritiana Rasamoelina](https://www.instagram.com/)
+- 📘 Facebook: [Heritiana Hasina Rasamoelina](https://www.facebook.com/heritianahasyna)  
 
 ---
 
