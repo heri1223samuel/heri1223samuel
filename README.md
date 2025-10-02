@@ -1,4 +1,4 @@
-# 👋 Hi, I’m heri1223samuel  
+# 👋 Hi, I’m Heritiana  
 
 👀 **I’m passionate about web development**, especially creating modern, user-friendly interfaces using **JavaScript**, **TypeScript**, and **React (TSX)**.  
 🌱 **I’m currently learning** advanced React concepts, improving my UI/UX skills with **Material-UI (MUI)**, and also **developing in backend with Node.js**, which I already practice and now want to **deepen** as part of my path toward **full-stack development**.  
