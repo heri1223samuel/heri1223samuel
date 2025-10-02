@@ -8,7 +8,10 @@
 
 ### 🚀 Side Project  
 For the past **2 months**, I’ve been working on a **private project** built with **TypeScript** and **React (MUI)**.  
-I decided to keep it **private** for now because it’s still an **original idea**, and I want to avoid **plagiarism** or **idea copying**.  
+- The app is already **fully responsive**, working seamlessly across **all devices**.  
+- It will become a **Progressive Web App (PWA)** once the project is finished.  
+- I decided to keep it **private** for now because it’s still an **original idea**, and I want to avoid **plagiarism** or **idea copying**.  
+
 👉 If anyone is interested, feel free to **reach out to me directly**.  
 The project will later transition into **React Native** to support mobile platforms.  
 
