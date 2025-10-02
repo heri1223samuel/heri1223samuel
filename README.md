@@ -10,6 +10,7 @@
 For the past **2 months**, I’ve been working on a **private project** built with **TypeScript** and **React (MUI)**.  
 - The app is already **fully responsive**, working seamlessly across **all devices**.  
 - It will become a **Progressive Web App (PWA)** once the project is finished.  
+- The app is also being developed in **multiple languages**, with **English already integrated**.  
 - I decided to keep it **private** for now because it’s still an **original idea**, and I want to avoid **plagiarism** or **idea copying**.  
 
 👉 If anyone is interested, feel free to **reach out to me directly**.  
@@ -20,6 +21,8 @@ The project will later transition into **React Native** to support mobile platfo
 ### 🎓 About Me  
 - I’m currently studying **computer science and programming**, always motivated to expand my knowledge and explore new technologies.  
 - Proficient in **HTML**, **CSS**, **JavaScript**, **TypeScript**, and **React**, with hands-on experience in **backend development with Node.js** that I want to **further deepen**.  
+- I also want to **learn and build projects with MySQL**, to strengthen my backend and database management skills.  
+- I am comfortable working **independently** and can build **applications or websites with multi-language support**.  
 - Passionate about building **dynamic, responsive, and scalable** web applications.  
 
 ---
@@ -27,7 +30,9 @@ The project will later transition into **React Native** to support mobile platfo
 ### 💻 My Skills  
 - **Languages & Frameworks**: HTML, CSS, JavaScript, TypeScript, React, Node.js, **C**, **Shell/Makefile**  
 - **Tools & Libraries**: Material-UI (MUI), Git  
-- **Interests**: Front-end development, UI/UX design, and advancing my skills in **backend development** toward **full-stack expertise**  
+- **Databases**: Learning **MySQL**  
+- **Strengths**: Independent developer, multilingual app & web development  
+- **Interests**: Front-end development, UI/UX design, backend development, and moving toward **full-stack expertise**  
 
 ---
 
