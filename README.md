@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Heritiana  
+# 👋 Hi, I’m heri1223samuel  
 
 👀 **I’m passionate about web development**, especially creating modern, user-friendly interfaces using **JavaScript**, **TypeScript**, and **React (TSX)**.  
 🌱 **I’m currently learning** advanced React concepts, improving my UI/UX skills with **Material-UI (MUI)**, and also **developing in backend with Node.js**, which I already practice and now want to **deepen** as part of my path toward **full-stack development**.  
@@ -33,6 +33,12 @@ The project will later transition into **React Native** to support mobile platfo
 - **Databases**: Learning **MySQL**  
 - **Strengths**: Independent developer, multilingual app & web development  
 - **Interests**: Front-end development, UI/UX design, backend development, and moving toward **full-stack expertise**  
+
+---
+
+### 💼 Freelancing  
+I am also **open to freelancing opportunities**.  
+If you have a project or offer for me, I would be happy to discuss it — but please **contact me first directly**.  
 
 ---
 
