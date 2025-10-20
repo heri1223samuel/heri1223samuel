@@ -1,56 +1,49 @@
 # 👋 Hi, I’m Heritiana  
 
-👀 **I’m passionate about web development**, especially creating modern, user-friendly interfaces using **JavaScript**, **TypeScript**, and **React (TSX)**.  
-🌱 **I’m currently learning** advanced React concepts, improving my UI/UX skills with **Material-UI (MUI)**, and also **developing in backend with Node.js**, which I already practice and now want to **deepen** as part of my path toward **full-stack development**.  
-💞️ **I’m looking to collaborate on** open-source or team-based web development projects to sharpen my skills in TypeScript, React, Node.js, and scalable web app architecture.  
+💻 **Web developer passionate about creating modern, user-friendly interfaces** using **JavaScript**, **TypeScript**, and **React (TSX)**.  
+🌍 On my way to becoming a **full-stack developer**, currently improving my **Node.js** and **MySQL** skills.  
 
 ---
 
-### 🚀 Side Project  
-For the past **2 months**, I’ve been working on a **private project** built with **TypeScript** and **React (MUI)**.  
-- The app is already **fully responsive**, working seamlessly across **all devices**.  
-- It will become a **Progressive Web App (PWA)** once the project is finished.  
-- The app is also being developed in **multiple languages**, with **English already integrated**.  
-- I decided to keep it **private** for now because it’s still an **original idea**, and I want to avoid **plagiarism** or **idea copying**.  
-
-👉 If anyone is interested, feel free to **reach out to me directly**.  
-The project will later transition into **React Native** to support mobile platforms.  
+### 🚀 Current Project  
+Working on a **private web app** built with **TypeScript + React (MUI)**  
+- ✅ Fully **responsive** across all devices  
+- 🌐 Supports **multiple languages** (English included)  
+- ⚡ Will become a **PWA** and later adapted to **React Native**  
+- 🔒 Kept **private** for now to protect an **original idea**
 
 ---
 
 ### 🎓 About Me  
-- I’m currently studying **computer science and programming**, always motivated to expand my knowledge and explore new technologies.  
-- Proficient in **HTML**, **CSS**, **JavaScript**, **TypeScript**, and **React**, with hands-on experience in **backend development with Node.js** that I want to **further deepen**.  
-- I also want to **learn and build projects with MySQL**, to strengthen my backend and database management skills.  
-- I am comfortable working **independently** and can build **applications or websites with multi-language support**.  
-- Passionate about building **dynamic, responsive, and scalable** web applications.  
+- 🎯 Computer science student passionate about real-world projects  
+- 💡 Skilled in **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React**, and **Node.js**  
+- 🧠 Learning **MySQL** and backend architecture  
+- 💪 Independent developer who enjoys building **responsive, scalable web apps**  
 
 ---
 
-### 💻 My Skills  
-- **Languages & Frameworks**: HTML, CSS, JavaScript, TypeScript, React, Node.js, **C**, **Shell/Makefile**  
-- **Tools & Libraries**: Material-UI (MUI), Git  
-- **Databases**: Learning **MySQL**  
-- **Strengths**: Independent developer, multilingual app & web development  
-- **Interests**: Front-end development, UI/UX design, backend development, and moving toward **full-stack expertise**  
+### 💻 Tech Stack  
+**Languages & Frameworks:** HTML, CSS, JavaScript, TypeScript, React, Node.js, C, Shell/Makefile  
+**Libraries & Tools:** Material-UI (MUI), Git  
+**Databases:** MySQL (learning)  
 
 ---
 
-### 💼 Freelancing  
-I am also **open to freelancing opportunities**.  
-If you have a project or offer for me, I would be happy to discuss it — but please **contact me first directly**.  
+### 💼 Freelance & Collaboration  
+Open to **freelance projects** and **team collaborations** in web development.  
+If you have a project or idea, feel free to **reach out** — I’m always happy to discuss new opportunities.  
 
 ---
 
-### 📫 How to reach me  
-- 📧 Email: [herysamuelpljv@gmail.com](mailto:herysamuelpljv@gmail.com)  
-- 📘 Facebook: [Heritiana Hasina Rasamoelina](https://www.facebook.com/heritianahasyna)  
+### 📫 Contact  
+- 📧 [herysamuelpljv@gmail.com](mailto:herysamuelpljv@gmail.com)  
+- 📘 [Facebook – Heritiana Hasina Rasamoelina](https://www.facebook.com/heritianahasyna)  
 
 ---
 
-😄 **Fun Fact**: I believe in learning something new every day — whether it’s a new library, design pattern, or useful coding trick!  
-⚡ **Currently**: Computer science student and aspiring **full-stack developer**, already building projects with **Node.js backend** and aiming to **deepen my knowledge**.  
+😄 **Fun Fact:** I try to learn something new every day — whether it’s a new framework, design pattern, or coding trick!  
+⚡ **Currently:** Building projects with **React** and **Node.js** while growing toward **full-stack expertise**.  
 
 ---
 
-**Let’s build something amazing together!** 🚀  
+✨ *Let’s build something amazing together!* 🚀
