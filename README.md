@@ -24,7 +24,7 @@ Working on a **private web app** built with **TypeScript + React (MUI)**
 ### My Skills 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,ts,js,c,vim,css,electron,express,firebase,materialui,react,vim,vscode,vue" />
+    <img src="https://skillicons.dev/icons?i=git,ts,js,c,css,electron,express,firebase,materialui,react,vim,vscode,vue" />
   </a>
 </p>
 
