@@ -29,12 +29,6 @@ Working on a **private web app** built with **TypeScript + React (MUI)**
 </p>
 
 ---
-### 💻 Tech Stack  
-**Languages & Frameworks:** HTML, CSS, JavaScript, TypeScript, React, Node.js, C, Shell/Makefile  
-**Libraries & Tools:** Material-UI (MUI), Git  
-**Databases:** MySQL (learning)  
-
----
 
 ### 💼 Freelance & Collaboration  
 Open to **freelance projects** and **team collaborations** in web development.  
