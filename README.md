@@ -22,9 +22,9 @@ Working on a **private web app** built with **TypeScript + React (MUI)**
 
 ---
 ### My Skills 
-    [![My Skills](https://skillicons.dev/icons?i=git,nodejs,npm,vite,ts,js,c,express,supabase,firebase,materialui,react,vscode,vue,css,html")](https://skillicons.dev)
----
+[![My Skills](https://skillicons.dev/icons?i=git,nodejs,npm,vite,ts,js,c,express,supabase,firebase,materialui,react,vscode,vue,css,html")](https://skillicons.dev)
 
+----
 ### 💼 Freelance & Collaboration  
 Open to **freelance projects** and **team collaborations** in web development.  
 If you have a project or idea, feel free to **reach out** — I’m always happy to discuss new opportunities.  
