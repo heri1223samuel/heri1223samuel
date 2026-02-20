@@ -21,7 +21,14 @@ Working on a **private web app** built with **TypeScript + React (MUI)**
 - 💪 Independent developer who enjoys building **responsive, scalable web apps**  
 
 ---
+### My Skills 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,ts,js,c,vim,css,electron,express,firebase,materialui,react,vim,vscode,vue" />
+  </a>
+</p>
 
+---
 ### 💻 Tech Stack  
 **Languages & Frameworks:** HTML, CSS, JavaScript, TypeScript, React, Node.js, C, Shell/Makefile  
 **Libraries & Tools:** Material-UI (MUI), Git  
