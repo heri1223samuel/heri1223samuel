@@ -2,6 +2,7 @@
 
 💻 **Full-stack developer** passionate about creating modern, user-friendly interfaces using **JavaScript**, **TypeScript**, and **React (TSX)**.
 🌍 Already building **major full-stack projects**, with expertise spanning frontend, backend, and database architecture.
+🏫 Student at **42 Antananarivo** — part of the **42 Network**, the **world's best innovation-driven university** 🏆, where learning happens through **peer-to-peer projects**, no teachers, no lectures — just pure problem solving.
 
 ---
 
