@@ -1,44 +1,58 @@
-# 👋 Hi, I’m Heritiana  
+# 👋 Hi, I'm Heritiana
 
-💻 **Web developer passionate about creating modern, user-friendly interfaces** using **JavaScript**, **TypeScript**, and **React (TSX)**.  
-🌍 On my way to becoming a **full-stack developer**, currently improving my **Node.js** and **MySQL** skills.  
-
----
-
-### 🚀 Current Project  
-Working on a **private web app** built with **TypeScript + React (MUI)**  
-- ✅ Fully **responsive** across all devices  
-- 🌐 Supports **multiple languages** (English included)  
-- ⚡ Will become a **PWA** and later adapted to **React Native**  
-- 🔒 Kept **private** for now to protect an **original idea**
+💻 **Full-stack developer** passionate about creating modern, user-friendly interfaces using **JavaScript**, **TypeScript**, and **React (TSX)**.
+🌍 Already building **major full-stack projects**, with expertise spanning frontend, backend, and database architecture.
 
 ---
 
-### 🎓 About Me  
-- 🎯 Computer science student passionate about real-world projects  
-- 💡 Skilled in **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React**, and **Node.js**  
-- 🧠 Learning **MySQL** and backend architecture  
-- 💪 Independent developer who enjoys building **responsive, scalable web apps**  
+### 🚀 Major Projects
+
+#### 🔒 Private Web App — TypeScript + React (MUI)
+- ✅ Fully **responsive** across all devices
+- 🌐 Supports **multiple languages** (English included)
+- ⚡ Will become a **PWA** and later adapted to **React Native**
+- 🔒 Kept **private** to protect an **original idea**
+
+#### 🔒 Private Full-Stack Project #2
+- 🏗️ Built with a modern full-stack architecture
+- 🔒 Kept **private** — details coming soon
 
 ---
-### My Skills 
+
+### 🎓 About Me
+
+- 🏫 Student at **42 Antananarivo** — part of the **42 Network**, ranked among the **best universities in the world** and **3rd for innovation** 🏆
+- 🎯 Full-stack developer with hands-on experience on **2 major real-world projects**
+- 💡 Skilled in **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React**, and **Node.js**
+- 🗄️ Working with **SQL**, **MySQL**, **Supabase**, and **Firebase**
+- 🧠 Deepening **C programming** and low-level concepts through the 42 cursus
+- 💪 Passionate about building **responsive, scalable, production-ready apps**
+
+---
+
+### 🛠️ My Skills
+
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,c,python,js,ts,react,vue,express,materialui,vite,firebase,supabase,html,css)](https://skillicons.dev)
-----
-### 💼 Freelance & Collaboration  
-Open to **freelance projects** and **team collaborations** in web development.  
-If you have a project or idea, feel free to **reach out** — I’m always happy to discuss new opportunities.  
 
 ---
 
-### 📫 Contact  
-- 📧 [herysamuelpljv@gmail.com](mailto:herysamuelpljv@gmail.com)  
-- 📘 [Facebook – Heritiana Hasina Rasamoelina](https://www.facebook.com/heritianahasyna)  
+### 💼 Freelance & Collaboration
+
+Open to **freelance projects** and **team collaborations** in web development.
+If you have a project or idea, feel free to **reach out** — I'm always happy to discuss new opportunities.
 
 ---
 
-😄 **Fun Fact:** I try to learn something new every day — whether it’s a new framework, design pattern, or coding trick!  
-⚡ **Currently:** Building projects with **React** and **Node.js** while growing toward **full-stack expertise**.  
+### 📫 Contact
+
+- 📧 [herysamuelpljv@gmail.com](mailto:herysamuelpljv@gmail.com)
+- 📘 [Facebook – Heritiana Hasina Rasamoelina](https://www.facebook.com/heritianahasyna)
 
 ---
 
-✨ *Let’s build something amazing together!* 🚀
+😄 **Fun Fact:** I try to learn something new every day — whether it's a new framework, design pattern, or coding trick!
+⚡ **Currently:** Grinding the **42 Antananarivo cursus** while shipping **full-stack projects** with **React**, **Node.js**, **Supabase**, and **Firebase**.
+
+---
+
+✨ *Let's build something amazing together!* 🚀
